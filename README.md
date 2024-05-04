@@ -13,7 +13,7 @@ At 3dvr.tech, we envision a world where technology seamlessly integrates into ou
 Our **Travel Backpack/Desk** is designed for digital nomads who require mobility and functionality. It integrates a portable desk into a sleek backpack, offering a convenient workspace wherever you go.
 
 ### 2. **Integrated RISC-V CPU**
-We are developing an integrated RISC-V CPU, similar to the LicheePi, which replaces traditional computing devices like phones, laptops, desktops, and VR headsets. With different interface devices, our RISC-V CPU will be the versatile core of your digital life.
+We are developing an integrated RISC-V CPU System, which replaces traditional computing devices like phones, laptops, desktops, and VR headsets. With different interface devices, our RISC-V CPU will be the versatile core of your digital life.
 
 ### 3. **Universal Computing Platform**
 Our universal computing platform unites all aspects of computing—whether you need a phone, laptop, desktop, or VR headset—into one adaptable system, transforming with different interface devices to suit your needs.
