@@ -1,5 +1,4 @@
 # 3dvr.tech
-
 This is the technology brand of 3dvr-global
 
 Welcome to the **3dvr.tech** repository, the hub for our innovative and groundbreaking technology solutions designed to empower digital nomads and support jungle economies.
