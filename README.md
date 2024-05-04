@@ -30,6 +30,3 @@ We aim to offer job opportunities to Guatemalans and support the digital nomad a
 
 If you share our vision and passion for technology that empowers people and supports local communities, we invite you to join us in building the future. Together, we can create a world where technology enhances our lives and fosters economic growth.
 
----
-
-This README file provides an overview of your vision, products, and business model, conveying a clear and compelling message to potential contributors and users.
